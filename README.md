@@ -43,5 +43,5 @@ O script encontra-se disponível em: https://github.com/prog-II-ufes/script-de-c
 
 Após baixar, basta copiar o script para a raiz do diretório e executá-lo.
 
-## Bugs e sugestões
+## Sugestões e feedbacks
 Este repositório é uma ferramenta pessoal para meu aprendizado, mas caso encontre algo interessante ou tenha sugestões de melhoria, fique à vontade para me contatar. Vamos colaborar no aprendizado!
