@@ -1,15 +1,15 @@
 # Exercícios gerais
 
-Este repositório contém os exercícios que serão utilizados durante a disciplina de Programação II :balloon:	
+Este repositório contém os exercícios que serão utilizados durante a minha resolução dos desafios propostos na disciplina de Programação II :balloon:	
 
-Os exercícios estão dividos por pastas que seguem a mesma ordem do cronograma da disciplina. A intenção que você solucione os exercícios na medida que a disciplina avance, uma vez que a dificuldade vai aumentando.
+Os exercícios estão divididos por pastas que seguem a mesma ordem do cronograma da disciplina. A intenção é que eu solucione os exercícios na medida que avanço na disciplina, uma vez que a dificuldade aumenta progressivamente.
 
 ___
-:construction: **Nota:** como essa é a segunda turma em que os exercícios serão apresentados desta forma, este repositório está em constante construção. Possíveis problemas podem ser reportados em sala de aula.
+:construction: **Nota:** este repositório foi adaptado de um repositório original compartilhado pelo professor. Estou ajustando e personalizando conforme necessário para o meu aprendizado.
 ___
 
 ## Descrição das pastas
-A seguir é oferecido uma breve descrição dos temas de cada uma das pastas:
+A seguir é oferecida uma breve descrição dos temas de cada uma das pastas:
 
 - **01_revisao**: contém os exercícios de revisão de Programação I que será discutido na Aula 01.
 
@@ -30,7 +30,7 @@ A seguir é oferecido uma breve descrição dos temas de cada uma das pastas:
 - **08_arquivo_binario**: contém exercícios relacionados ao uso de arquivos binarios mesclados com os conceitos anteriores. Serão trabalhados nas aulas 23 e 24.
 
 ## Uso do script de correção
-A partir dos exercícios disponíveis na pasta `03_bibliotecas`, será possível utilizar um script para correção automática dos exercícios. Esse script realiza a correção do código levando em consideração os seguintes aspectos:
+A partir dos exercícios disponíveis na pasta `03_bibliotecas`, é possível utilizar um script para correção automática dos exercícios. Esse script realiza a correção do código considerando os seguintes aspectos:
 
 - [x] Compilação do código
 - [x] Comparação das entradas e saída
@@ -44,4 +44,4 @@ O script encontra-se disponível em: https://github.com/prog-II-ufes/script-de-c
 Após baixar, basta copiar o script para a raiz do diretório e executá-lo.
 
 ## Bugs e sugestões
-Como este é um repositório em construção, é possível que você encontre algum bug ou tenha alguma sugestão de melhoria. Neste caso, por favor, entre em contato com os monitores ou professores da disciplina.
+Este repositório é uma ferramenta pessoal para meu aprendizado, mas caso encontre algo interessante ou tenha sugestões de melhoria, fique à vontade para me contatar. Vamos colaborar no aprendizado!
