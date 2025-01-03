@@ -11,26 +11,22 @@ ___
 ## Descrição das pastas
 A seguir é oferecida uma breve descrição dos temas de cada uma das pastas:
 
-- **01_revisao**: contém os exercícios de revisão de Programação I que será discutido na Aula 01.
+- **01_bibliotecas**: contém exercícios dos tópicos de separação de arquivos, modularização e bibliotecas estáticas e dinâmicas. Estes serão abordados nas Aulas 04, 05 e 06.
 
-- **02_recursao**: contém exercícios do tópico de recursão, que será apresentado na Aula 03.
+- **02_TAD_simples**: contém exercícios relacionados a Tipos Abstratos de Dados (TAD) sem utilização de alocação dinâmica. Os exercícios estão relacionados às aulas 07 e 08.
 
-- **03_bibliotecas**: contém exercícios dos tópicos de separação de arquivos, modularização e bibliotecas estáticas e dinâmicas. Estes serão abordados nas Aulas 04, 05 e 06.
+- **03_ponteiros**: contém exercícios relacionados a ponteiros, passagem de parâmetro, ponteiros para funções. Estes exercícios também envolvem conceitos de TAD já estudados e serão abordados nas Aulas 09, 10, 11 e 12.
 
-- **04_TAD_simples**: contém exercícios relacionados a Tipos Abstratos de Dados (TAD) sem utilização de alocação dinâmica. Os exercícios estão relacionados às aulas 07 e 08.
+- **04_alocacao_dinamica**: contém exercícios relacionados a alocação dinâmica de memória e estarão relacionados aos conceitos anteriores já abordados. Estes tópicos serão abordados nas Aulas 13, 14, 15, 16 e 17.
 
-- **05_ponteiros**: contém exercícios relacionados a ponteiros, passagem de parâmetro, ponteiros para funções. Estes exercícios também envolvem conceitos de TAD já estudados e serão abordados nas Aulas 09, 10, 11 e 12.
+- **05_TAD_opaco**: como o nome sugere, contém exercícios relacionados a construção de TADs opacos. Obviamente, levam em consideração todos os assuntos anteriores. Estes exercícios serão abordados na Aula 18.
 
-- **06_alocacao_dinamica**: contém exercícios relacionados a alocação dinâmica de memória e estarão relacionados aos conceitos anteriores já abordados. Estes tópicos serão abordados nas Aulas 13, 14, 15, 16 e 17.
+- **06_TAD_genérico**: contém exercícios relacionados a construção de TADs genéricos. Obviamente, levam em consideração todos os assuntos anteriores. Estes exercícios serão abordados na Aula 19, 20, 21 e 22.
 
-- **07_TAD_opaco**: como o nome sugere, contém exercícios relacionados a construção de TADs opacos. Obviamente, levam em consideração todos os assuntos anteriores. Estes exercícios serão abordados na Aula 18.
-
-- **07_TAD_genérico**: contém exercícios relacionados a construção de TADs genéricos. Obviamente, levam em consideração todos os assuntos anteriores. Estes exercícios serão abordados na Aula 19, 20, 21 e 22.
-
-- **08_arquivo_binario**: contém exercícios relacionados ao uso de arquivos binarios mesclados com os conceitos anteriores. Serão trabalhados nas aulas 23 e 24.
+- **07_arquivo_binario**: contém exercícios relacionados ao uso de arquivos binarios mesclados com os conceitos anteriores. Serão trabalhados nas aulas 23 e 24.
 
 ## Uso do script de correção
-A partir dos exercícios disponíveis na pasta `03_bibliotecas`, é possível utilizar um script para correção automática dos exercícios. Esse script realiza a correção do código considerando os seguintes aspectos:
+A partir dos exercícios disponíveis na pastas, é possível utilizar um script para correção automática dos exercícios. Esse script realiza a correção do código considerando os seguintes aspectos:
 
 - [x] Compilação do código
 - [x] Comparação das entradas e saída
